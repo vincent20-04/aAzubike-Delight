@@ -1,0 +1,45 @@
+header{
+    background-color: black;
+    color: rgb(197, 243, 228);
+    text-align: center;
+    border border-radius: 30px;
+}
+nav a{
+    color: WHITE;
+}
+.two{
+    text-align: center;
+    border-radius: 10px;
+    background-color: rgba(243, 228, 208, 0.719);
+}
+p{
+    font-style: italic;
+    font-size: 20px;
+}
+.img{
+    border-radius: 20px;
+}
+.three{
+    background-color: black;
+    border: 10px;
+    border-radius: 10px;
+}
+.four{
+    background-color: rgba(243, 228, 208, 0.719);
+    border-radius: 10px;
+     text-align: center;
+}
+.five{
+   background-color: rgba(243, 228, 208, 0.719);
+     border-radius: 10px;
+     text-align: center;
+}
+.six{background-color: black;
+     border-radius: 10px;
+     text-align: center;
+      color: rgb(197, 243, 228);
+
+}
+a {
+  text-decoration: none;margin: 15px;
+}
